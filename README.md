@@ -21,6 +21,10 @@ Create a data base system for an E-Commerce company that helps the Director of S
   <li>On-time delivery performance</li>
   <li>Employee Responsibility</li>
 </ul>
+
+## Tableau Report
+
+<img src="https://github.com/royashishneu/E-Commerce_Database_System/blob/main/Screen%20Shot%202022-02-10%20at%204.14.02%20PM.png">
  
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
