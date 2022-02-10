@@ -1,11 +1,11 @@
 # <p align="center">E-Commerce Database System</p>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/roy-ashish">
-<img alt="linkedin" src="https://img.shields.io/badge/-ashishroy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roy-ashish"></a>
+<img alt="linkedin" src="https://img.shields.io/badge/-Ashish Roy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roy-ashish"></a>
 <img src="https://img.shields.io/badge/Version-1.0.0-blue" />
-<img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
-<img src="https://img.shields.io/badge/T--SQL-90%25-red">
-<img src="https://img.shields.io/badge/Tableau-10%25-blueviolet">
+<img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
+<img src="https://img.shields.io/badge/T--SQL-90%25-red?style=flat&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-10%25-blueviolet?style=flat&logo=tableau&logoColor=white">
 </p>
 
 ## Our Goal
