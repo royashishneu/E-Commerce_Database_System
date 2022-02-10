@@ -10,7 +10,7 @@
 
 ## Our Goal
 
-Create a data base system for an E-Commerce company that helps the Director of Supply Chain and Business Operations of the company to address problems and take strategic business decisions with regards to
+A database system for an E-Commerce company that helps the Director of Supply Chain and Business Operations of the company to address problems and take strategic business decisions with regards to
 
 <ul>
   <li>Inventory Control</li>
