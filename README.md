@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Tableau-10%25-blueviolet?style=flat&logo=tableau&logoColor=white">
 </p>
 
-## Our Goal
+## Goal
 
 A database system for an E-Commerce company that helps the Director of Supply Chain and Business Operations of the company to address problems and take strategic business decisions with regards to
 
